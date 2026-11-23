@@ -1,0 +1,10 @@
+[ICMS] 12 arquivos, 21,489 linhas brutas
+[ICMS] duplicatas exatas na linha bruta completa = 0
+[ICMS] removidas 87 linhas 'MUNICIPIO NAO INFORMADO' (soma do ICMS bruto = R$ 0.00)
+[ICMS] nulos nas colunas de ICMS = 0
+[ICMS] ignoradas 7,626 linhas sem ICMS (repasses só de IPI/IPVA, ICMS = 0,00)
+[ICMS] violações de 'bruto - FUNDEB = creditado': 0
+[ICMS] consolidado: 2,952 linhas (município x mês), 246 municípios, ICMS bruto 2024 = R$ 7,301,313,516.94
+[FROTA] 246 linhas | duplicatas de município = 0 | nulos = 0
+[CRUZAMENTO] só no ICMS: [] | só na frota: []
+[CRUZAMENTO] municípios em comum: 246 (Goiás tem 246)
